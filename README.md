@@ -1,6 +1,6 @@
 - Hello people, I’m halcyon-jyz, but you can just call me hal.
 - I’m interested in sleeping and eating (also STEM and modeling).
-- I’m currently learning Blender.
+- I’m currently learning Blender and taking CS50 on EdX.
 - I’m looking to collaborate on nothing at the moment!
 - Pronouns: she/they.
 - Fun fact: my MBTI is ISTJ-T, which sometimes switches to ISTP-A.
